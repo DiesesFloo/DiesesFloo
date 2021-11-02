@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @FlixiiDev
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: Nowhere
+# About me
+- `👤` Florian
+- `🦙` 14
+- `💻` java, python, javascript
 
-<!---
-FlixiiDev/FlixiiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Projects
+- [Clan-System](https://github.com/JohnDamonDE/ClanSystem)
+- [Memoria](https://github.com/MemoriaGroup)
