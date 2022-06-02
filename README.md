@@ -74,5 +74,5 @@
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 
-## Random Meme
+## Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
