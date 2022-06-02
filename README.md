@@ -9,6 +9,7 @@
 ### Github
 ![Floo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diesesfloo&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diesesfloo&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=anuraghazra)](https://github.com/diesesfloo/github-readme-stats)
 
 ## Things I use
 ### Tools/IDEs
