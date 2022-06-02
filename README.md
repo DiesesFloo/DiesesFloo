@@ -75,4 +75,4 @@
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 
 ## Random Meme
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+![Jokes Card](https://readme-jokes.vercel.app/api)
