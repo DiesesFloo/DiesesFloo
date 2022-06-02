@@ -7,7 +7,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/DiesesFloo/count.svg)
 
 ### Github
-![Floo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diesesfloo&show_icons=true&theme=radical)   
+![Floo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diesesfloo&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diesesfloo&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Things I use
