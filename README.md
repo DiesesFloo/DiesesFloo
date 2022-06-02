@@ -1,8 +1,16 @@
-Hey, my name is Floo, I'm a 15 years old developer based in Germany. 
+![Header](./header.png)
+## Welcome
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=print(%22Welcome+to+my+GitHub!%22);Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+### About me
+Hey! I'm Floo, a student based in Germany. 
 
 ## Stats
+### Visits
+![Visitor Count](https://profile-counter.glitch.me/DiesesFloo/count.svg)
+
 ### Github
-![Floo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diesesfloo&show_icons=true&theme=radical)
+![Floo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diesesfloo&show_icons=true&theme=radical)   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diesesfloo&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Things I use
 ### Tools/IDEs
