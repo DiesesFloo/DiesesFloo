@@ -1,8 +1,6 @@
 ![Header](./header.png)
 ## Welcome
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=print(%22Welcome+to+my+GitHub!%22);Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-### About me
-Hey! I'm Floo, a student based in Germany. 
 
 ## Stats
 ### Visits
