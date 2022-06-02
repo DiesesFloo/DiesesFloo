@@ -6,9 +6,11 @@
 ### Visits
 ![Visitor Count](https://profile-counter.glitch.me/DiesesFloo/count.svg)
 
-### Github
+### Github General
 ![Floo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diesesfloo&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diesesfloo&theme=highcontrast)](https://git.io/streak-stats)
+
+### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=anuraghazra)](https://github.com/diesesfloo/github-readme-stats)
 
 ## Things I use
@@ -71,3 +73,6 @@
 ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
+
+## Random Meme
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
