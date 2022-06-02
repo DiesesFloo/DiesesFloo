@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diesesfloo&theme=highcontrast)](https://git.io/streak-stats)
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=anuraghazra)](https://github.com/diesesfloo/github-readme-stats)
+[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesesfloo&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
 
 ## Things I use
 ### Tools/IDEs
